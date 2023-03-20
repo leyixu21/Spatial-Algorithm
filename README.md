@@ -1,6 +1,6 @@
 # Spatial-Algorithm
 Identification of the cultural ecosystem services in the canton of  Graubünden, Switzerland with Python
-A replicate of the [[1]](#1)
+A replicate of the paper by Gianfranco Gliozzo [[1]](#1).
 
 - First Algorithm: Rasterize Polygon
 - Second Algorithm: Point Index
